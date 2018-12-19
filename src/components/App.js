@@ -1,6 +1,19 @@
 import React, { Component } from 'react';
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+
+    }
+  }
+
+  // TODO:
+  // Create list of locations
+  // Gather images of locations
+  // Add "Roll" button
+  
+
   render() {
     return (
       <div>
